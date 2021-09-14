@@ -1,0 +1,8 @@
+﻿  square.cpp
+C:\Users\Emil\source\repos\square\square\square.cpp(24,16): warning C4244: '=': conversion from 'long double' to 'int', possible loss of data
+C:\Users\Emil\source\repos\square\square\square.cpp(28,26): warning C4244: 'argument': conversion from 'long double' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  square.vcxproj -> C:\Users\Emil\source\repos\square\Debug\square.exe
