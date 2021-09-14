@@ -1,12 +1,6 @@
 ﻿  square.cpp
-C:\Users\Emil\Documents\Work\TelebidPro\Internship+training\square\square\square.cpp(27,12): warning C4244: '=': conversion from 'long double' to 'int', possible loss of data
-C:\Users\Emil\Documents\Work\TelebidPro\Internship+training\square\square\square.cpp(31,22): warning C4244: 'argument': conversion from 'long double' to 'const _Ty', possible loss of data
-          with
-          [
-              _Ty=int
-          ]
-C:\Users\Emil\Documents\Work\TelebidPro\Internship+training\square\square\square.cpp(56,16): warning C4244: '=': conversion from 'long double' to 'int', possible loss of data
-C:\Users\Emil\Documents\Work\TelebidPro\Internship+training\square\square\square.cpp(60,26): warning C4244: 'argument': conversion from 'long double' to 'const _Ty', possible loss of data
+C:\Users\Emil\Documents\Work\TelebidPro\Internship+training\square\square\square.cpp(21,12): warning C4244: '=': conversion from 'long double' to 'int', possible loss of data
+C:\Users\Emil\Documents\Work\TelebidPro\Internship+training\square\square\square.cpp(25,22): warning C4244: 'argument': conversion from 'long double' to 'const _Ty', possible loss of data
           with
           [
               _Ty=int
